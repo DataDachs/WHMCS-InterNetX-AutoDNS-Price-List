@@ -74,5 +74,15 @@ This repository contains **only** the `spAutoDnsPricelist` addon module and does
 2. Select a rounding option (`No rounding`, `Round to whole numbers`, or `Round to tens`).
 3. The table updates all displayed prices dynamically.
 
+## License
+Licensed under the **DataDachs WHMCS Module License** (`Free & Commercial Edition`). See [LICENSE.md](LICENSE.md) for the full binding terms.
+
+| Action | Allowed |
+| :--- | :--- |
+| Use in your own WHMCS (commercial hosting & personal) | Yes (free) |
+| Customize code or templates for your own WHMCS | Yes |
+| Bypass or remove license checks (where applicable) | No |
+| Resell, redistribute, publish copies, or build competing products | No |
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
